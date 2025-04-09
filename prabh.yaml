@@ -410,12 +410,12 @@ Resources:
             - Name: GitHub-Source
               ActionTypeId:
                 Category: Source
-                Owner: ThirdParty
+                Owner: ThirdParty ho ch
                 Version: '1'
                 Provider: GitHub
               Configuration:
                 Owner: !Ref GitHubOwner
-                Repo: wildrydesapp
+                Repo: prabhfinaltest
                 Branch: !Ref GitHubBranch
                 OAuthToken: !Ref GitHubToken
               OutputArtifacts:
