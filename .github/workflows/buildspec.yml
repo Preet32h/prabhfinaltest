@@ -7,3 +7,4 @@ Resources:
         LoadBalancerInfo:
           ContainerName: "WildRydesApp"
           ContainerPort: 80
+ 
