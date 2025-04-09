@@ -47,5 +47,3 @@ env:
     REPOSITORY_URI: "536697260132.dkr.ecr.us-east-1.amazonaws.com/prabh-wildrydes/repo"
     CONTAINER_NAME: "prabh-wildrydes-cluster"
     AWS_DEFAULT_REGION: "us-east-1"
-    GITHUB_REPO_URL: "https://github.com/Preet32h/prabhfinaltest"  # Updated with correct repo
-    GITHUB_BRANCH: "main"  # Set the branch name to main
